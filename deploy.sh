@@ -5,7 +5,7 @@ sudo npm install -g pm2
 # stop any instance of our application running currently
 pm2 stop example_app
 # change directory into folder where application is downloaded
-cd ExampleApplication/
+cd CA1-DevOps/
 # install application dependencies
 npm install
 # start the application with the process name example_app using pm2
